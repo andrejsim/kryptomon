@@ -37,7 +37,7 @@
     "fs": "0.0.1-security",
     "fs-extra": "3.0.1",
     "ganache-cli": "^6.1.0",
-    "html-webpack-plugin": "2.29.0",
+    "html-webpack-plugin": "5.5.0",
     "jest": "20.0.4",
     "lodash": "^4.17.5",
     "moment": "^2.21.0",
